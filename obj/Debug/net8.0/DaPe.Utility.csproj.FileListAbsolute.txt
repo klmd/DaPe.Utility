@@ -1,0 +1,13 @@
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Utility\bin\Debug\net8.0\DaPe.Utility.deps.json
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Utility\bin\Debug\net8.0\DaPe.Utility.dll
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Utility\bin\Debug\net8.0\DaPe.Utility.pdb
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Utility\obj\Debug\net8.0\DaPe.Utility.csproj.AssemblyReference.cache
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Utility\obj\Debug\net8.0\DaPe.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Utility\obj\Debug\net8.0\DaPe.Utility.AssemblyInfoInputs.cache
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Utility\obj\Debug\net8.0\DaPe.Utility.AssemblyInfo.cs
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Utility\obj\Debug\net8.0\DaPe.Utility.csproj.CoreCompileInputs.cache
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Utility\obj\Debug\net8.0\DaPe.Utility.sourcelink.json
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Utility\obj\Debug\net8.0\DaPe.Utility.dll
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Utility\obj\Debug\net8.0\refint\DaPe.Utility.dll
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Utility\obj\Debug\net8.0\DaPe.Utility.pdb
+C:\Users\daniel.petrik\Documents\GitHub\Edemy_Eshop\DaPe.Utility\obj\Debug\net8.0\ref\DaPe.Utility.dll
